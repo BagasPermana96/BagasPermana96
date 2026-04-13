@@ -73,7 +73,7 @@ A web application designed to digitize and streamline engineering operational re
 ---
 
 ### 🌐 Personal Portfolio Website
-> **Live at [bagaspermana96.github.io](https://bagaspermana96.github.io)**
+> **Live at [bagaspermana96.github.io](https://bagaspermana96.github.io/muhamadbagas.github.io/)**
 
 Professional landing page showcasing skills, experience, and achievements. Built with pure HTML, CSS, and JavaScript.
 
