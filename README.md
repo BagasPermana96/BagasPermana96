@@ -7,7 +7,7 @@
 **7+ years** bridging technology and building operations in Tangerang, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-bagas-permana-ba3b85172/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D6FA4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bagaspermana96.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D6FA4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bagaspermana96.github.io/muhamadbagas.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadbagas96@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -81,18 +81,6 @@ Professional landing page showcasing skills, experience, and achievements. Built
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BagasPermana96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasPermana96&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 ```
@@ -136,7 +124,7 @@ I'm actively looking for opportunities in **IT Support**, **Engineering Administ
 
 - 📧 **Email:** muhamadbagas96@gmail.com
 - 💼 **LinkedIn:** [muhamad-bagas-permana](https://www.linkedin.com/in/muhamad-bagas-permana-ba3b85172/)
-- 🌐 **Portfolio:** [bagaspermana96.github.io](https://bagaspermana96.github.io)
+- 🌐 **Portfolio:** [bagaspermana96.github.io](https://bagaspermana96.github.io/muhamadbagas.github.io/)
 - 📍 **Location:** Tangerang, Indonesia
 
 ---
